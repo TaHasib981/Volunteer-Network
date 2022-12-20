@@ -1,0 +1,11 @@
+.updateContainer{
+    width: 50%;
+    margin: auto;
+    border: 2px solid aqua;
+    padding: 10px;
+    margin-top: 18px;
+    background-color: rgba(239, 233, 233, 0.34);
+}
+.updateContainer h5{
+    margin-left: 150px;
+}
